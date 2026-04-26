@@ -1,36 +1,31 @@
-# Sales Analysis 📊
+# 📊 Sales Analysis - Olist Dataset
 
-Exploratory analysis of e-commerce sales data using Python and Pandas.
+Exploratory data analysis of an e-commerce dataset using Python and Pandas.
+
+## 🎯 Objective
+Analyze sales data to identify revenue patterns, top-performing categories, and trends over time.
 
 ## 🛠️ Tools
-* Python  
-* Pandas  
+- Python
+- Pandas
 
-## 📂 Structure
-- `sales_analysis.ipynb` – Main analysis notebook  
+## 📊 Analysis
+- Revenue by product category
+- Revenue distribution
+- Sales trends over time
 
-## 🚀 Project
+## 💡 Key Insights
+- A small number of categories generate most of the revenue
+- Some categories show consistent growth over time
+- Certain categories have more stable revenue patterns
 
-A simple data analysis project using the Brazilian Olist dataset.
+## 📂 Dataset
+Olist Brazilian E-Commerce Dataset (Kaggle)
 
-### What I did
-- Loaded and merged multiple datasets  
-- Created a revenue column  
-- Analyzed top product categories  
-- Explored revenue trends over time  
+## 📈 Future Improvements
+- Add data visualization
+- Create dashboard (Power BI)
+- Perform deeper analysis
 
-## 📈 Key Analysis
-- Top categories by total revenue  
-- Revenue distribution across categories  
-- Monthly revenue trends  
-
-## 💡 Insights
-- A small number of categories generate most of the revenue  
-- Some categories show higher variability in revenue over time  
-- Categories like *cama_mesa_banho* combine strong revenue with more stable performance  
-
-## 📊 Dataset
-Olist Brazilian E-Commerce Dataset
-
----
-*Author: [Pedro Henrique Lopes](https://www.linkedin.com/in/lopeshpedro/)*
+## 👨‍💻 Author
+[Pedro Henrique Lopes](https://www.linkedin.com/in/lopeshpedro/)
