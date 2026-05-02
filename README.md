@@ -8,6 +8,7 @@ Analyze sales data to identify revenue patterns, top-performing categories, and 
 ## 🛠️ Tools
 - Python
 - Pandas
+- Matplotlib
 
 ## 📊 Analysis
 - Revenue by product category
@@ -16,14 +17,15 @@ Analyze sales data to identify revenue patterns, top-performing categories, and 
 
 ## 💡 Key Insights
 - A small number of categories generate most of the revenue
-- Some categories show consistent growth over time
+- Revenue shows growth over time, followed by a period of stability
 - Certain categories have more stable revenue patterns
 
 ## 📂 Dataset
 Olist Brazilian E-Commerce Dataset (Kaggle)
 
 ## 📈 Future Improvements
-- Add data visualization
+- Improve data visualizations
+- Add SQL queries
 - Create dashboard (Power BI)
 - Perform deeper analysis
 
